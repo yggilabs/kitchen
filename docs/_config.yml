@@ -1,3 +1,4 @@
+baseurl: /kitchen
 plugins:
   - jekyll-sitemap
 collections:
