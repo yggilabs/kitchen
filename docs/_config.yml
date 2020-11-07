@@ -3,4 +3,3 @@ plugins:
 collections:
   recipes:
     output: true
-    permalink: /kitchen/:collection/:name
