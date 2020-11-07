@@ -1,10 +1,10 @@
 ---
-
 ---
 
 > placeholder recipe. DO NOT USE AS IS
 
-**ingerdients:**
+ingerdients:
+------------
 
 - 1L pureed baechu kimchi
 - 1L tomato puree 
@@ -12,8 +12,8 @@
 - 20g driend oregano
 - 20g dried basil
 
-
-**directions:**
+directions:
+-----------
 
 1. strain pureed kimchi reserving liquid for later
 
