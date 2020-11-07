@@ -23,7 +23,9 @@ dietary
 
 post ~1 minute prep videos on youtube
 
-leftover "secret menus" turn leftovers into a new meal. things like leftovers fried rice or quesadillas
+meal hacks using common staple items. like a fried egg or something similar
+
+leftover "secret menus" turn leftovers into a new meal with staple items. things like leftovers fried rice or quesadillas
 
 list ingredients simply like rxbars
 
