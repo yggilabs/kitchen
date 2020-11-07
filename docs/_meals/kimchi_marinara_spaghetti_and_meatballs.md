@@ -1,3 +1,6 @@
+---
+---
+
 ## Contents
 
 - [Kimchi Maranara](./recipes/kimchi_maranara)
