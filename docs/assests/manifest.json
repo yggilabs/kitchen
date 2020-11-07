@@ -1,3 +1,5 @@
+---
+---
 {
   "short_name": "{{ site.short_name }}",
   "name": "{{ site.name }}",
