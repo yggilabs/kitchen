@@ -1,5 +1,4 @@
----
----
+
 {% assign collection = site.collections | where: "label","recipes" | first %}
 
 {% capture urls %}
