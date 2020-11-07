@@ -7,9 +7,16 @@ plugins:
 collections:
   recipes:
     output: true
+  meals:
+    output: true
 defaults:
   - scope:
       path: ""
       type: recipes
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: meals
     values:
       layout: default
