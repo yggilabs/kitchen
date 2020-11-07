@@ -5,6 +5,6 @@
 
 <ul>
 {% for recipe in site.recipes %}
-  <li>{{ recipe.url }}</li>
+  <li><a href="{{ recipe.url }}">{{ recipe.id }}</a></li>
 {% endfor %}
 </ul>
