@@ -3,7 +3,7 @@
 
 ## Contents
 
-- [Kimchi Maranara](./recipes/kimchi_maranara)
+- [Kimchi Maranara](../recipes/kimchi_maranara)
 - Spaghetti Noodles
 - Teokey Meatballs
 
