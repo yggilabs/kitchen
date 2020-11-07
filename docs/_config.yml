@@ -5,10 +5,10 @@ theme_color: "#fff"
 plugins:
   - jekyll-seo-tag
 collections:
-  recipes:
-    output: true
-  meals:
-    output: true
+  - recipes:
+      output: true
+  - meals:
+      output: true
 defaults:
   - scope:
       path: ""
