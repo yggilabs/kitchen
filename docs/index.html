@@ -3,6 +3,13 @@ layout: default
 ---
 <h1>Kitchen</h1>
 <p>Under Construction</p>
+<h2>Meals</h2>
+<ul>
+{% for meal in site.meals %}
+  <li><a href="{{ meal.url | prepend: site.github.baseurl }}">{{ meal.title | replace: "_", " " }}</a></li>
+{% endfor %}
+</ul>
+
 <h2>Recipes</h2>
 <ul>
 {% for recipe in site.recipes %}
