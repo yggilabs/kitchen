@@ -1,5 +1,13 @@
+name: kitchen
+short_name: kitchen
 plugins:
   - jekyll-sitemap
 collections:
   recipes:
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: default
