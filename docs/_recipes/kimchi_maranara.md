@@ -21,6 +21,6 @@
 
 3. add tomato puree and salt. simmer for 10 minutes
 
-4. add reserved liquid, dried oregano and basil. bring to a simmer, remove from heat and cool.
+4. add reserved liquid, dried oregano and basil. simmer for 5 minutes.
 
 *makes 2L kimchi maranara*
