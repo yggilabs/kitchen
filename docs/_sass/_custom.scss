@@ -1,1 +1,12 @@
+:root {
+  --env_breakpoint: #{$env_breakpoint};
+}
 
+@media (max-width: $env_breakpoint) {
+
+}
+
+.main {
+  max-width: var(---env_breakpoint);
+  margin: 0 auto;
+}
