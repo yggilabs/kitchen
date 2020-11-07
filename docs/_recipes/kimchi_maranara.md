@@ -15,12 +15,12 @@
 
 **directions:**
 
-1. puree kimchi
+1. strain pureed kimchi reserving liquid for later
 
-2. simmer kimchi, tomatoes and salt for 10 minutes
+2. sweat strained kimchi in oil until soft and translucent
 
-3. add dried oregano and basil. simmer an additional 5 minutes
+3. add tomato puree and salt. simmer for 10 minutes
 
-4. cool immediately
+4. add reserved liquid, dried oregano and basil. simmer an additional 5 minutes
 
 *makes 2L kimchi maranara*
