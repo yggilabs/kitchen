@@ -4,8 +4,8 @@
 ## Contents
 
 - [Kimchi Maranara](../recipes/kimchi_maranara)
-- Spaghetti Noodles
-- Teokey Meatballs
+- [Spaghetti Noodles](../recipes/spaghetti_noodles)
+- [Teokey Meatballs](../recipes/teokey_meatballs)
 
 ## Preparation
 
