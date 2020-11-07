@@ -9,10 +9,3 @@ layout: default
   <li><a href="{{ meal.url | prepend: site.github.baseurl }}">{{ meal.title | replace: "_", " " }}</a></li>
 {% endfor %}
 </ul>
-
-<h2>Recipes</h2>
-<ul>
-{% for recipe in site.recipes %}
-  <li><a href="{{ recipe.url | prepend: site.github.baseurl }}">{{ recipe.title | replace: "_", " " }}</a></li>
-{% endfor %}
-</ul>
