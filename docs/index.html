@@ -2,8 +2,11 @@
 layout: default
 ---
 <h1>Kitchen</h1>
-<p>Under Construction</p>
+<p>Under Construction<. I have put a couple placeholders to try to work out what needs to be written up/p>
 <h2>Meals</h2>
+
+Meals are an example of what would be included with each parcel. The recipes would be for internal use.
+
 <ul>
 {% for meal in site.meals %}
   <li><a href="{{ meal.url | prepend: site.github.baseurl }}">{{ meal.title | replace: "_", " " }}</a></li>
