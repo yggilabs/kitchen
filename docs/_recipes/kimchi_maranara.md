@@ -23,4 +23,4 @@
 
 4. cool immediately
 
-**makes 2L kimchi maranara
+*makes 2L kimchi maranara*
