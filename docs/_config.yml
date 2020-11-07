@@ -1,5 +1,7 @@
 name: kitchen
 short_name: kitchen
+background_color: #fff
+theme_color: #fff
 plugins:
   - jekyll-sitemap
 collections:
