@@ -5,6 +5,6 @@
 
 <ul>
 {% for recipe in site.recipes %}
-  <li><a href="{{ recipe.url | prepend: site.baseul }}">{{ recipe.id }}</a></li>
+  <li><a href="{{ recipe.url | prepend: site.github.baseurl }}">{{ recipe.id }}</a></li>
 {% endfor %}
 </ul>
